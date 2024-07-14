@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+h1, p {
+  font-size: 18px;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+svg {
+  margin: 20px auto;
+  display: block;
+}
